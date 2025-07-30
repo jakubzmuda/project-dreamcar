@@ -1,5 +1,5 @@
 ### TODO
 - [x] Test setup
+- [ ] First simple event - bootup
 - [ ] In memory event store
-- [ ] First simple event, like hazard lights
 - [ ] Find the best communication protocol with UI
